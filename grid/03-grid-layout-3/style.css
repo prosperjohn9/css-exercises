@@ -132,3 +132,7 @@
   font-size: 13px;
   font-weight: normal;
 }
+.card > p {
+  text-align: center;
+  margin-top: 10px;
+}
